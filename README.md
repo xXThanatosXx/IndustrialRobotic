@@ -31,7 +31,7 @@ Para configurar el entorno necesario para el curso en un sistema operativo Ubunt
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/watch?si=A5CDzYbwtK9ze-UW&v=YznWZz4OKRc&feature=youtu.be" target="_blank">**Enlace a Instalación de Ubuntu y Ros Noetic - Haga clic aquí para más información**</a>
+<a href="https://youtu.be/7AlrIBRidAI" target="_blank">**Enlace a Instalación de Ubuntu y Ros Noetic - Haga clic aquí para más información**</a>
 </p>
 
 ## Configuración de Máquina Virtual
