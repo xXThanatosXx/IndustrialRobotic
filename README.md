@@ -13,7 +13,7 @@ Para complementar tu aprendizaje en el curso de Robótica, seguir los enlaces a 
 
 Nota: Descargar VMware-player-17.5.2-23775571.exe.tar y descomprimir y ejecutar el archivo .exe
 
-- [VMware-player-17.5.2-23775571.exe.tar](https://softwareupdate.vmware.com/cds/vmw-desktop/player/17.5.2/23775571/windows/core/)
+- [Descomprimir e instalar-VMware-player-17.5.2-23775571.exe.tar](https://softwareupdate.vmware.com/cds/vmw-desktop/player/17.5.2/23775571/windows/core/VMware-player-17.5.2-23775571.exe.tar)
   
 - [ubuntu20.04](https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso)
 - [Documentación Oficial de ROS Noetic (Robot Operating System)](https://wiki.ros.org/noetic/Installation/Ubuntu)
@@ -25,7 +25,7 @@ Para configurar el entorno necesario para el curso en un sistema operativo Ubunt
 
 
 <p align="center">
-  <a href="https://youtu.be/sk0WTxr-yic?si=M51wHld4yW2u4Ymt">
+  <a href="https://youtu.be/7AlrIBRidAI">
     <img src="./Logos/imagen1.jpg" height="300">
   </a>
 </p>
@@ -46,7 +46,7 @@ sudo apt-get install open-vm-tools-desktop -y
 sudo reboot
 ```
 
-### Instalación de Ros 2 Noetic
+### Instalación de Ros Noetic
 ```bash
 Abre una terminal y sigue los siguientes pasos.
 ```
